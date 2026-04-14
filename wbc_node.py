@@ -1,4 +1,4 @@
-mport rclpy
+import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import JointState
 from std_msgs.msg import Float64MultiArray
